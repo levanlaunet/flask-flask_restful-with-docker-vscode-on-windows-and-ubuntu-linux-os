@@ -1,0 +1,6 @@
+Flask
+flask_sqlalchemy
+psycopg2-binary>=2.8
+flask_migrate
+flask-restful
+flask_wtf
